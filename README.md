@@ -1,9 +1,12 @@
 
 # MovEngine - Movie Recommendation App
 
-<p align="center">
-    <img width="200" src="(https://user-images.githubusercontent.com/100766914/212482003-9b3122a6-aeae-4c8f-9ef1-aa9fb1f85dbf.png)" alt="Logo">
-</p>
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="logo.png" alt="Logo" max-width="auto" height="100">
+  </a>
+    <br />
 
 
 

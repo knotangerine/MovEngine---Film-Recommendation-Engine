@@ -1,13 +1,6 @@
 
 # MovEngine - Movie Recommendation App
 
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" max-width="auto" height="100">
-  </a>
-
-
-
 
 Have you ever wanted to watch a movie but don't want to browse for hours or read long reviews? If so, you've come to the right place!
 

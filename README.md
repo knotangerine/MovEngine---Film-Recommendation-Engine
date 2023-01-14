@@ -1,6 +1,9 @@
 
 # MovEngine - Movie Recommendation App
 
+![MovEngine-1](https://user-images.githubusercontent.com/100766914/212481725-11691382-94c9-4628-af3e-8be2ed472884.png)
+
+
 Have you ever wanted to watch a movie but don't want to browse for hours or read long reviews? If so, you've come to the right place!
 
 MovEngine is a movie recommendatinon engine that provides you with 10 recommendations of movies that are similar to the one you've entered. Our engine uses a database thaat contains 60,000+ movies and 25M+ user ratings. We will achieve this through the concepts of data analysis and machine learning.

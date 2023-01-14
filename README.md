@@ -1,7 +1,7 @@
 
 # MovEngine - Movie Recommendation App
 
-![MovEngine-1](https://user-images.githubusercontent.com/100766914/212481725-11691382-94c9-4628-af3e-8be2ed472884.png)
+![MovEngine-1 (1)](https://user-images.githubusercontent.com/100766914/212482003-9b3122a6-aeae-4c8f-9ef1-aa9fb1f85dbf.png)
 
 
 Have you ever wanted to watch a movie but don't want to browse for hours or read long reviews? If so, you've come to the right place!
